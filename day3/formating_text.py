@@ -1,0 +1,22 @@
+print("sunbeam")
+print("infotech")
+print("java")
+print("python")
+# by default print ends the line with "\n"
+print("-"*70)
+print("sunbeam",end=" ")
+print("infotech",end=" ")
+print("java",end=" ")
+print("python",end=" ")
+print()
+print("-"*70)
+print("sunbeam",end="-")
+print("infotech",end="-")
+print("java",end="-")
+print("python",end="-")
+
+print()
+print("-"*70)
+
+print("sunbeam","pune","karad",end="-",sep='*')
+print("infotech",end='-')
